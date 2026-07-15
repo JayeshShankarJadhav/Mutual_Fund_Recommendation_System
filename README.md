@@ -1,8 +1,3 @@
-# HackHive Submission
-Welcome to our HackHive submission repository! This repository contains the code and documentaion for our project developed during the HackHive hackathon.
-
-Checkout Working Project here: [View Project](https://wealthmanagementinsightsformutualfunds-hg9rngmjppnpefprxwnvh3.streamlit.app/)
-
 ## Description
 
 Our problem domain concerns wealth management for the common middle-class people, focusing on Mutual Funds. There are very limited techniques for wealth management like
@@ -51,14 +46,3 @@ we provide users with a user-friendly platform to explore, evaluate, and select 
 * **Data-driven Fund Selection**: *We analyze a vast dataset of mutual fund performance metrics, including returns, volatility, Sharpe Ratioi, Sortino Ration, Alpha, beta, and Standard Deviation. By evaluating historical fund performance and risk characteristics, we identify top-performing funds and present them to users for consideration.*
 * **Interactive User Interface**: *Our intuitive and interactive user interface allows users to explore different mutual fund options, compare fund performance metrics, and make informed investment decisions seamlessly.*
 
-## Acknowledgements
-We would like to extend our gratitude to TechHunterssss and DAVV School of DataScience and Forecasting, Indore, Madhya Pradesh, for organizing the HackHive hackathon and providing us with the opportunity to showcase our project. 
-Additionally, we would like to thank our mentors, teammates, and everyone who supported us throughout this journey. Your guidance, encouragement, and expertise were invaluable.
-
-## Contact
-If you have any questions, feedback, or would like to collaborate, please feel free to reach out to us:
-
-- Priyanshu Rao, [Github](https://github.com/Priyanshu501), [Email](mailto:priyanshusrao@gmail.com)
-- Sushant Ghatol, [Github](https://github.com/sushantghatol), [Email](mailto:sushant.ghatol560@gmail.com)
-- Khushal Dhage, [Github](https://github.com/Khushaldhage15), [Email](mailto:khushaldhage0@gmail.com)
-- Sonu Tiwari, [Github](https://github.com/SonuT18), [Email](mailto:sonutiwari6408@gmail.com)
